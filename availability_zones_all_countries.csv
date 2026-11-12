@@ -1,0 +1,31 @@
+Country,Country_label,value,variable
+CHN,China (People's Republic of),80,Tier 1 (high AI capability)
+CHN,China (People's Republic of),5,No GPU available
+CHN,China (People's Republic of),5,Tier 2 (medium AI capability)
+CHN,China (People's Republic of),3,Tier 3 (low AI capability)
+CHN,China (People's Republic of),0,Tier 4 (no AI capability)
+DEU,Germany,10,Tier 1 (high AI capability)
+DEU,Germany,9,No GPU available
+DEU,Germany,2,Tier 2 (medium AI capability)
+DEU,Germany,0,Tier 3 (low AI capability)
+DEU,Germany,0,Tier 4 (no AI capability)
+CHE,Switzerland,5,No GPU available
+CHE,Switzerland,5,Tier 2 (medium AI capability)
+CHE,Switzerland,2,Tier 1 (high AI capability)
+CHE,Switzerland,0,Tier 3 (low AI capability)
+CHE,Switzerland,0,Tier 4 (no AI capability)
+ZAF,South Africa,7,No GPU available
+ZAF,South Africa,3,Tier 3 (low AI capability)
+ZAF,South Africa,0,Tier 1 (high AI capability)
+ZAF,South Africa,0,Tier 2 (medium AI capability)
+ZAF,South Africa,0,Tier 4 (no AI capability)
+IND,India,11,Tier 1 (high AI capability)
+IND,India,8,No GPU available
+IND,India,1,Tier 2 (medium AI capability)
+IND,India,0,Tier 3 (low AI capability)
+IND,India,0,Tier 4 (no AI capability)
+USA,United States,62,Tier 1 (high AI capability)
+USA,United States,21,No GPU available
+USA,United States,2,Tier 2 (medium AI capability)
+USA,United States,2,Tier 3 (low AI capability)
+USA,United States,1,Tier 4 (no AI capability)
